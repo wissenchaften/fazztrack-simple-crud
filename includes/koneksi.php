@@ -1,3 +1,3 @@
 <?php 
-$koneksi = mysqli_connect("localhost", "root", "admin", "fazztrack");
+$koneksi = mysqli_connect("localhost", "root", "", "fazztrack");
 ?>
