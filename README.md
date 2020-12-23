@@ -1,5 +1,5 @@
 # fazztrack-simple-crud
-<h1>Fazztrack exercises</h1> <br/>
+<h1>Fazztrack tugas 10</h1> <br/>
 <h2> Tampilan utama </h2>
 <p>Terdapat beberapa elemen yaitu</p>
 <ul>
