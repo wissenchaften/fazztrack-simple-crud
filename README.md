@@ -1,6 +1,7 @@
 # fazztrack-simple-crud
 <h1>Fazztrack tugas 10</h1> <br/>
 <h2> Tampilan utama </h2>
+<p>@author : Fajar Shodiq Ansori</p>
 <p>Terdapat beberapa elemen yaitu</p>
 <ul>
   <li>Form tambah data</li>
